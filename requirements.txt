@@ -1,0 +1,9 @@
+tkinter
+csv
+random
+pyttsx3
+ttkbootstrap.constants
+ttkbootstrap
+pandas
+pytest
+nltk
